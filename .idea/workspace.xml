@@ -2,8 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1f6d36a1-8ece-422b-9783-f707e4f32c2c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplo.py" beforeDir="false" afterPath="$PROJECT_DIR$/exemplo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex 079 valor unico e ord crescente.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ex078 - lista.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex078 - lista / mostrar maior, menor e posicao.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ex079 - lista / valor unico e ordem crescente.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -193,6 +196,9 @@
     </task>
     <servers />
   </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="SHOW_OTHER_BRANCHES" value="true" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
@@ -203,5 +209,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
